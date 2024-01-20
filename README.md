@@ -1,4 +1,6 @@
 # CV-Using-HTML-CSS
 
-1. Created my CV using HTML and CSS.
-2. Used flex Box and Tables for strcutural changes mainly.
+1. Crafted my CV using HTML and CSS.
+2. Used Flex Box and Tables for structural changes mainly.
+
+Access the project at https://cv-a1ljuj84l-chakits-projects.vercel.app/
